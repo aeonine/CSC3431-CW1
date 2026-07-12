@@ -4,7 +4,7 @@ Comparing evolutionary and swarm-based optimisation approaches through parameter
 
 University of Newcastle CSC3431 Biological Computation coursework.
 
-[📄 View report](./report) [💻 View source](./code)
+[📄 View report](./report/README.md) [💻 View source](./code)
 
 ---
 
